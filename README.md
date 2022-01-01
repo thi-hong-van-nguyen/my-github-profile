@@ -10,7 +10,7 @@
   - Testing: Cypress, React Testing Libraries, Jest, Supertest
 - 🌱 I’m currently learning things related to cloud computing and coding :)
 - 💬 Ask me about anything and I am happy to tell you!
-- 📫 How to reach me: vannguyen141290@gmail.com | https://www.linkedin.com/in/thihongnguyen/
+- 📫 How to reach me: thinguyen.webdev@gmail.com | https://www.linkedin.com/in/thihongnguyen/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I 💓 cats 💓 dogs 💓 building websites. I have two cats who are well fed (chubby. haha) and they are so cute and lovely that you would fall in love with them instantly 
 
