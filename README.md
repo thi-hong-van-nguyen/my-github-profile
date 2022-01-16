@@ -13,6 +13,7 @@
 - 📫 How to reach me: thinguyen.webdev@gmail.com | https://www.linkedin.com/in/thihongnguyen/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I 💓 cats 💓 dogs 💓 building websites. I have two cats who are well fed (chubby. haha) and they are so cute and lovely that you would fall in love with them instantly 
+- 🤩 Check out my PORTFOLIO WEBSITE: https://awesome-hawking-0d87df.netlify.app/
 
 <h2>Languages and Tools:</h2>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
